@@ -42,7 +42,8 @@ python main.py
 ```
 
 ## Ramas de trabajo
-| `main` | Versión estable | ambas
+| `main` | Versión estable | Ambas
+| `dev`  | Versión intermedia entre las ramas de desarrollo y main | Ambas. 
 | `feature/baraja-jugador` | Clases `Carta`, `Baraja` y `Jugador` | Leticia
 | `feature/logica-juego` | Clase `Juego` y `main.py` | Jennifer
 

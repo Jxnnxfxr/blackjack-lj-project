@@ -8,7 +8,7 @@ programación orientada a objetos y el trabajo en equipo con Git y GitHub.
 - **@Jxnnxfxr**
 - **@leticiazdp12-bit**
 
-## 📋 Reglas del juego
+##  Reglas del juego
 
 - El objetivo es acercarse lo más posible a **21** sin pasarse.
 - Las cartas numéricas valen lo que indican; **J, Q y K valen 10**.
@@ -31,7 +31,7 @@ blackjack-lj-project/
 └── README.md
 ```
 
-## ▶️ Cómo ejecutarlo
+##  Cómo ejecutarlo
 
 Necesitas **Python 3.10 o superior**, porque el código usa la sintaxis `Carta | None`.
 
